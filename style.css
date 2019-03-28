@@ -1,0 +1,83 @@
+body {
+	background-image: url(img/background.png);
+	background-attachment: fixed;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+p {
+	color: white;
+}
+
+h1 {
+	color: white;
+}
+
+#navbar {
+	color: white;
+	text-transform: uppercase;
+	background-color: black;
+	
+}
+
+#center {
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+#specification {
+	background-color: #3d3c3c;
+	color: white;
+	margin-top: 950px;
+	padding: 10px;
+}
+
+#about {
+	background-color: #595959;
+	color: white;
+	padding: 50px;
+}
+
+#services {
+	background-color: #3d3c3c;
+	padding: 50px;
+}
+
+#contact {
+	background-color: #595959;
+	padding: 50px;
+}
+
+#footer {
+	background-color: #3d3c3c;
+	padding: 20px;
+}
+
+.contact-form .btnContact {
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding: 1.5%;
+    background: #dc3545;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+
+.btnContactSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    color: #fff;
+    background-color: #0062cc;
+    border: none;
+    cursor: pointer;
+}
